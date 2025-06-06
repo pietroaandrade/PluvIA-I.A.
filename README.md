@@ -2,6 +2,19 @@
 
 O PluvIA é um sistema inteligente que combina dados meteorológicos em tempo real com inteligência artificial para prever e alertar sobre riscos de chuva e inundações em grandes cidades brasileiras.
 
+###
+<h1 align="left">Integrantes</h1>
+
+###
+
+<h3 align="left">Ícaro Henrique de Souza Calixto - RM560278</h3>
+
+###
+
+<h3 align="left">Pietro Brandalise De Andrade - RM560142</h3>
+
+###
+
 ## Funcionalidades
 
 - Análise em tempo real de condições climáticas
