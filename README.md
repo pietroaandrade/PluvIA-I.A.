@@ -1,8 +1,8 @@
-# 🌧️ PluvIA - Sistema de Análise de Riscos Climáticos
+# PluvIA - Sistema de Análise de Riscos Climáticos
 
 O PluvIA é um sistema inteligente que combina dados meteorológicos em tempo real com inteligência artificial para prever e alertar sobre riscos de chuva e inundações em grandes cidades brasileiras.
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 - Análise em tempo real de condições climáticas
 - Previsão de riscos de chuva e inundações
@@ -11,13 +11,13 @@ O PluvIA é um sistema inteligente que combina dados meteorológicos em tempo re
 - Histórico de alertas por cidade
 - Interface amigável em português
 
-## 🚀 Requisitos
+## Requisitos
 
 - Python 3.8 ou superior
 - Conta na OpenAI (para API key)
 - Conta no OpenWeather (para API key)
 
-## ⚙️ Instalação
+## Instalação
 
 1. Clone o repositório:
 ```bash
@@ -50,7 +50,7 @@ OPENAI_API_KEY=sua_chave_da_openai
 OPENWEATHER_API_KEY=sua_chave_do_openweather
 ```
 
-## 🔑 Obtendo as Chaves de API
+## Obtendo as Chaves de API
 
 ### OpenAI API Key
 1. Acesse [OpenAI Platform](https://platform.openai.com/api-keys)
@@ -65,7 +65,7 @@ OPENWEATHER_API_KEY=sua_chave_do_openweather
 3. Vá para "My API Keys"
 4. Copie sua chave de API
 
-## 🎮 Como Usar
+## Como Usar
 
 1. Ative o ambiente virtual (se ainda não estiver ativo):
 ```bash
@@ -84,7 +84,7 @@ python main.py
    - Opção 2: Ver alertas salvos
    - Opção 3: Sair
 
-## 📊 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 pluvia/
@@ -97,14 +97,14 @@ pluvia/
 └── alertas.json       # Histórico de alertas (gerado automaticamente)
 ```
 
-## ⚠️ Níveis de Risco
+## Níveis de Risco
 
 - **BAIXO**: Condições normais, sem alertas
 - **MÉDIO**: Atenção necessária, monitoramento
 - **ALTO**: Risco significativo, ações preventivas
 - **SEVERO**: Risco iminente, ações imediatas necessárias
 
-## 🔧 Solução de Problemas
+## Solução de Problemas
 
 1. **Erro de API Key não encontrada**
    - Verifique se o arquivo `.env` existe
@@ -120,11 +120,9 @@ pluvia/
    - Confirme se as chaves de API são válidas
    - Aguarde alguns minutos e tente novamente
 
-## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👥 Contribuição
+
 
 Contribuições são bem-vindas! Por favor, leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes sobre nosso código de conduta e o processo para enviar pull requests.
 
