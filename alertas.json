@@ -1,0 +1,45 @@
+{
+    "São Paulo": [
+        {
+            "timestamp": "2025-06-06 16:12:17",
+            "dados": {
+                "city": "São Paulo",
+                "risk_level": "LOW",
+                "alerts": [
+                    "Humidity level is at 84%, close to the threshold of expected rain.",
+                    "Cloud coverage is at 75%, which may indicate potential rain."
+                ],
+                "recommendation": "Monitor weather conditions closely for the next few hours. Though the rain has ceased for now, the humidity and cloud coverage indicate potential for rain.",
+                "action": "Keep drainage systems clear to prepare for possible precipitation. Inform local residents of potential changes in weather conditions."
+            }
+        }
+    ],
+    "Curitiba": [
+        {
+            "timestamp": "2025-06-06 16:12:50",
+            "dados": {
+                "city": "Curitiba",
+                "risk_level": "LOW",
+                "alerts": [
+                    "Currently, no heavy rain is observed.",
+                    "Based on humidity and cloud coverage, rain can be expected, but it's not critical.",
+                    "Please note, humidity levels and cloud coverage are high which could lead to light or moderate rain."
+                ],
+                "recommendation": "Monitor conditions for any sudden increase in rainfall or drop in atmospheric pressure.",
+                "action": "Residents are advised to keep umbrellas or raincoats available. Authorities should schedule closer monitoring of weather conditions and ensure drainage systems are working properly to prevent possible minor flooding."
+            }
+        }
+    ],
+    "Rio de Janeiro": [
+        {
+            "timestamp": "2025-06-06 16:13:20",
+            "dados": {
+                "city": "Rio de Janeiro",
+                "risk_level": "LOW",
+                "alerts": [],
+                "recommendation": "Currently, there is no significant rainfall detected. The environmental conditions are stable and no immediate threat of a flood is observed.",
+                "action": "Keep monitoring weather conditions. No immediate action required."
+            }
+        }
+    ]
+}
