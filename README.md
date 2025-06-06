@@ -92,10 +92,8 @@ venv\Scripts\activate     # Windows
 python main.py
 ```
 
-3. Siga o menu interativo:
-   - Opção 1: Analisar nova cidade
-   - Opção 2: Ver alertas salvos
-   - Opção 3: Sair
+3. Siga o menu interativo no terminal...
+   
 
 ## Estrutura do Projeto
 
