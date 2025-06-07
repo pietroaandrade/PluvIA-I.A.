@@ -135,8 +135,6 @@ pluvia/
 
 
 
-Contribuições são bem-vindas! Por favor, leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes sobre nosso código de conduta e o processo para enviar pull requests.
 
-## 📧 Contato
 
 Para sugestões, dúvidas ou problemas, abra uma issue no GitHub ou entre em contato através do email: seu-email@exemplo.com
