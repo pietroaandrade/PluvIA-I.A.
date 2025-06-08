@@ -116,33 +116,4 @@ pluvia/
 └── alertas.json       # Histórico de alertas (gerado automaticamente)
 ```
 
-## Níveis de Risco
 
-- **BAIXO**: Condições normais, sem alertas
-- **MÉDIO**: Atenção necessária, monitoramento
-- **ALTO**: Risco significativo, ações preventivas
-- **SEVERO**: Risco iminente, ações imediatas necessárias
-
-## Solução de Problemas
-
-1. **Erro de API Key não encontrada**
-   - Verifique se o arquivo `.env` existe
-   - Confirme se as chaves estão corretamente formatadas
-   - Certifique-se de que o arquivo está na raiz do projeto
-
-2. **Erro de módulos não encontrados**
-   - Verifique se o ambiente virtual está ativo
-   - Execute `pip install -r requirements.txt` novamente
-
-3. **Erro de conexão com API**
-   - Verifique sua conexão com a internet
-   - Confirme se as chaves de API são válidas
-   - Aguarde alguns minutos e tente novamente
-
-
-
-
-
-
-
-Para sugestões, dúvidas ou problemas, abra uma issue no GitHub ou entre em contato através do email: seu-email@exemplo.com
