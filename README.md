@@ -42,7 +42,7 @@ O PluvIA é um sistema inteligente que combina dados meteorológicos em tempo re
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/pluvia.git
+git clone https://github.com/pietroaandrade/PluvIA-I.A..git
 cd pluvia
 ```
 
